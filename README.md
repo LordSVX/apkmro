@@ -1,2 +1,0 @@
-# apkmro
-Mro VPN Premium
